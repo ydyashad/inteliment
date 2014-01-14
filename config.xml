@@ -20,6 +20,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         id        = "com.inteliment.mapp"
         version   = "2.0.0">
+    <icon src="http://finalisys.com/Mobile/images/ldpi.png" />
+    
     <name>Inteliment</name>
 
     <description>
@@ -34,8 +36,6 @@
 
     <!-- <content src="http://mysite.com/myapp.html" /> for external pages -->
     <content src="index.html" />
-    
-    <icon src="http://finalisys.com/Mobile/images/ldpi.png"/>
     
     <preference name="loglevel" value="DEBUG" />
     <!--
