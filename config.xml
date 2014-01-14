@@ -34,6 +34,9 @@
 
     <!-- <content src="http://mysite.com/myapp.html" /> for external pages -->
     <content src="index.html" />
+    
+    <icon src="http://finalisys.com/Mobile/images/ldpi.png" gap:platform="android" gap:density="ldpi" />
+    
     <preference name="loglevel" value="DEBUG" />
     <!--
       <preference name="splashscreen" value="resourceName" />
